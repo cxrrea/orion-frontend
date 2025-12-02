@@ -66,8 +66,7 @@ export default function Equipe() {
 
                     <div className="team-card">
             <div className="team-img lipe-img"></div>
-            <h3>Luis Felipe
-               Anobile</h3>
+            <h3>Luis Felipe Anobile</h3>
             <p>Matrícula: 202302529984</p>
             <div className="social-icons">
               <a href="https://www.linkedin.com/in/luis-felipe-anobile-3a85941bb/" target="_blank" rel="noopener noreferrer">
