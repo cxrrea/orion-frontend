@@ -64,6 +64,21 @@ export default function Equipe() {
             </div>
           </div>
 
+                    <div className="team-card">
+            <div className="team-img lipe-img"></div>
+            <h3>Luis Felipe
+               Anobile</h3>
+            <p>Matrícula: 202302529984</p>
+            <div className="social-icons">
+              <a href="https://www.linkedin.com/in/luis-felipe-anobile-3a85941bb/" target="_blank" rel="noopener noreferrer">
+                <i className="bi bi-linkedin"></i>
+              </a>
+              <a href="https://github.com/CarolinaPinheiroSantos" target="_blank" rel="noopener noreferrer">
+                <i className="bi bi-github"></i>
+              </a>
+            </div>
+          </div>
+
         </div>
       </main>
     </>
